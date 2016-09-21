@@ -1,7 +1,6 @@
 * {
-background-color: #000;
-background-image: repeating-linear-gradient(90deg, transparent, transparent 50 px, rgba(117, 55, 117, 0.25) 50px, rgba(117, 65, 117, 0.25) 56px, transparent 56px, transparent 63px, rgba(117, 55, 117, 0.25) 63px, rgba(117, 65, 117, 0.25) 69px, transparent 69px, transparent 116px, rgba(100, 183, 100, 0.25) 116px, rgba(100, 193, 100, 0.25) 166px
-repeating-linear-gradient(0deg, transparent, transparent 50 px, rgba(117, 55, 117, 0.25) 50px, rgba(117, 65, 117, 0.25) 56px, transparent 56px, transparent 63px, rgba(117, 55, 117, 0.25) 63px, rgba(117, 65, 117, 0.25) 69px, transparent 69px, transparent 116px, rgba(100, 183, 100, 0.25) 116px, rgba(100, 193, 100, 0.25) 166px)
-repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(143, 77, 60, 0.25) 5px, rgba(143, 50, 60, 0.25) 10px
-repeating-radial-gradient(transparent, transparent 5px, rgba(143, 77, 60, 0.25) 5px, rgba (143, 50, 60, 0.25) 10px)
+background-image: repeating-linear-gradient(90deg, transparent, transparent 50 px, rgba(117, 55, 117, 115) 50px, rgba(117, 65, 117, 115) 56px, transparent 56px, transparent 63px, rgba(117, 55, 117, 115) 63px, rgba(117, 65, 117, 115) 69px, transparent 69px, transparent 116px, rgba(100, 183, 100, 115) 116px, rgba(100, 193, 100, 115) 166px
+repeating-linear-gradient(0deg, transparent, transparent 50 px, rgba(117, 55, 117, 115) 50px, rgba(117, 65, 117, 115) 56px, transparent 56px, transparent 63px, rgba(117, 55, 117, 115) 63px, rgba(117, 65, 117, 115) 69px, transparent 69px, transparent 116px, rgba(100, 183, 100, 115) 116px, rgba(100, 193, 100, 115) 166px)
+repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(143, 77, 60, 115) 5px, rgba(143, 50, 60, 115) 10px
+repeating-radial-gradient(transparent, transparent 5px, rgba(143, 77, 60, 115) 5px, rgba (143, 50, 60, 115) 10px)
 }
