@@ -1,3 +1,15 @@
-* {
-background: repeating-linear-gradient(45deg, beige, beige 5px, turquoise 5px, turquoise 10px)
+body{
+    text-align: center;
+    background-image: radial-gradient(rgb(200, 225, 255), rgb(255, 230, 190));
+}
+
+h1 {
+        background-color: #0088dd;
+        padding: 30px
+}
+p {
+    width: 200px;
+    height: 200px;
+    background-color: #bbbbaa;
+    padding: 10px
 }
